@@ -25,9 +25,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ## ☕ Connect with me!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashraful-131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashraful131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/piyash4486/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-131)](https://github.com/anuraghazra/github-readme-stats)
 
