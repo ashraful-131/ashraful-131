@@ -10,8 +10,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ✅HTML5 <br>
 ✅CSS3 <br>
-♋Javascript <br>
+♋JavaScript <br>
 ✅Photoshoop <br>
+✅VS Code 
 
 - 🔭 I’m currently working on https://www.hablu-programmer.com/ 
 - 🌱 I’m currently learning Javascript 
