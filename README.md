@@ -30,8 +30,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-131)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashraful-131&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ashraful-131/contributions?format=svg&private=true)  
