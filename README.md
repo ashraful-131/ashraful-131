@@ -33,7 +33,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ashraful-131/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ashraful-131)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ashraful-131)  
 
